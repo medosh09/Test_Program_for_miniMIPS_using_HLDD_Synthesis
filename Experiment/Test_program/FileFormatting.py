@@ -1,4 +1,4 @@
-f = open('out.txt','r')      #input file
+f = open('test_response.txt','r')      #input file
 out = open('FormattedOutput.txt', 'w') #output file
 
 #Number of testpatterns
